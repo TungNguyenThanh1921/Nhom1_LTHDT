@@ -179,11 +179,11 @@ MonoBehaviour:
   Name: Snake
   Level: 4
   OwnExp: 25
-  OwnMoney: 5
-  HP: 300
-  HPCurrent: 300
-  ATK: 40
-  DEF: 10
+  OwnMoney: 35
+  HP: 800
+  HPCurrent: 800
+  ATK: 80
+  DEF: 16
   latestDirectionChangeTime: 0
   movementPerSecond: {x: 0, y: 0}
   ResponEnemyPoint: {fileID: 0}

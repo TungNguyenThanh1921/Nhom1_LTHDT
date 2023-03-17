@@ -177,7 +177,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: RedMushRoom
-  Level: 5
+  Level: 7
   OwnExp: 100
   OwnMoney: 2000
   HP: 2000

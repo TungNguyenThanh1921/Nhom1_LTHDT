@@ -177,13 +177,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: Snake
-  Level: 5
-  OwnExp: 25
-  OwnMoney: 5
-  HP: 300
-  HPCurrent: 300
-  ATK: 40
-  DEF: 10
+  Level: 10
+  OwnExp: 50
+  OwnMoney: 100
+  HP: 150000
+  HPCurrent: 150000
+  ATK: 2500
+  DEF: 250
   latestDirectionChangeTime: 0
   movementPerSecond: {x: 0, y: 0}
   ResponEnemyPoint: {fileID: 0}

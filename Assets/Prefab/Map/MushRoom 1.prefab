@@ -52,13 +52,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: MushRoom
-  Level: 2
-  OwnExp: 15
-  OwnMoney: 5
-  HP: 150
-  HPCurrent: 150
-  ATK: 20
-  DEF: 5
+  Level: 9
+  OwnExp: 30
+  OwnMoney: 100
+  HP: 12800
+  HPCurrent: 12800
+  ATK: 1280
+  DEF: 256
   latestDirectionChangeTime: 0
   movementPerSecond: {x: 0, y: 0}
   ResponEnemyPoint: {fileID: 0}

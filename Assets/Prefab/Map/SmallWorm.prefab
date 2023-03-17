@@ -177,13 +177,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: SmallWorm
-  Level: 3
-  OwnExp: 20
-  OwnMoney: 10
-  HP: 250
-  HPCurrent: 250
-  ATK: 30
-  DEF: 10
+  Level: 2
+  OwnExp: 15
+  OwnMoney: 20
+  HP: 200
+  HPCurrent: 200
+  ATK: 20
+  DEF: 4
   latestDirectionChangeTime: 0
   movementPerSecond: {x: 0, y: 0}
   ResponEnemyPoint: {fileID: 0}
@@ -197,6 +197,8 @@ MonoBehaviour:
   - {fileID: 2441848154171544885, guid: e0278d528f63427498ae1f5c48f01603, type: 3}
   - {fileID: 4412963761801940507, guid: abd05e434d2fb6b439eed3696770f7fc, type: 3}
   - {fileID: 2534515194989067841, guid: 0ac989eec77bdfd41a4632063c478917, type: 3}
+  enemyController: {fileID: 0}
+  isBoss: 0
 --- !u!50 &5198134488006430274
 Rigidbody2D:
   serializedVersion: 4

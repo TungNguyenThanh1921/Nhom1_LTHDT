@@ -178,7 +178,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Name: Slime
   Level: 1
-  OwnExp: 100
+  OwnExp: 10
   OwnMoney: 5
   HP: 100
   HPCurrent: 100

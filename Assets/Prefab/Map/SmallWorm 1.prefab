@@ -177,13 +177,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: SmallWorm
-  Level: 3
+  Level: 7
   OwnExp: 20
-  OwnMoney: 10
-  HP: 250
-  HPCurrent: 250
-  ATK: 30
-  DEF: 10
+  OwnMoney: 100
+  HP: 3200
+  HPCurrent: 3200
+  ATK: 320
+  DEF: 64
   latestDirectionChangeTime: 0
   movementPerSecond: {x: 0, y: 0}
   ResponEnemyPoint: {fileID: 0}

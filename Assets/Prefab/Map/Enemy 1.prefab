@@ -177,13 +177,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: Slime
-  Level: 1
-  OwnExp: 10
-  OwnMoney: 5
-  HP: 100
-  HPCurrent: 100
-  ATK: 10
-  DEF: 2
+  Level: 6
+  OwnExp: 15
+  OwnMoney: 40
+  HP: 1600
+  HPCurrent: 1600
+  ATK: 160
+  DEF: 32
   latestDirectionChangeTime: 0
   movementPerSecond: {x: 0, y: 0}
   ResponEnemyPoint: {fileID: 0}

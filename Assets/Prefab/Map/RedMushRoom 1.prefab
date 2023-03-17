@@ -177,13 +177,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: RedMushRoom
-  Level: 5
-  OwnExp: 100
-  OwnMoney: 2000
-  HP: 2000
-  HPCurrent: 2000
-  ATK: 55
-  DEF: 30
+  Level: 8
+  OwnExp: 15
+  OwnMoney: 40
+  HP: 6400
+  HPCurrent: 6400
+  ATK: 640
+  DEF: 128
   latestDirectionChangeTime: 0
   movementPerSecond: {x: 0, y: 0}
   ResponEnemyPoint: {fileID: 0}

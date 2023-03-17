@@ -24,7 +24,7 @@ public class Enemy : MonoBehaviour
     private float TimeResetEarnAttackPlayer = 3f;
     private float LastTimeEarnAttacckPlayer;
 
-    private float TimeReturnAttack = 5f;
+    private float TimeReturnAttack = 3f;
     private float LastTimeAttack;
 
     public GameObject ResponEnemyPoint;
